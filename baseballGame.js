@@ -51,7 +51,7 @@ Method 1 - Using switch statement
 Technique
 - Create a score stack array to store scores
 - Create a result variable to store result
-- 
+- Modify score stack and result based on the current operation using switch statement 
 - Time complexity = O(N)
 - Space complexity = O(N)
 
