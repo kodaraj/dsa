@@ -32,6 +32,6 @@ console.log(search([5], 5)); // 0
 
 Method 1 - Binary Seach Algorithm
 - Time complexity = O(log n)
-- Space complexity = 
+- Space complexity = O(1)
 
 */
